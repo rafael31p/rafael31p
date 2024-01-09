@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on Heinsonh Business Technology<br>- 
-- 🌱 I’m currently learning Java with Spring Boot, Quarkus, React.js, .Net with C# and Angular
+- 🌱 I’m currently learning Java with Spring Boot, Quarkus, React.js and Angular
 
 
 <p align="center"> 🌐 Socials:</p>
